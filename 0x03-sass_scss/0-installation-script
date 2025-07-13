@@ -1,0 +1,7 @@
+# Steps to install SASS
+
+# Step 1: Check if Node.js is installed
+node -v
+
+# Step 2: Install SASS using npm
+npm install sass
